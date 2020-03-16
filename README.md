@@ -1,6 +1,6 @@
 # docker_django
 docker for django developer
-
+**COPY ALL FILE to your project**
 
 django(version can be defined in requirement.txt, run on port 8000 - can be defined in docker-compose file)
 
